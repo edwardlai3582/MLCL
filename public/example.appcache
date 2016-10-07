@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# 2016-10-06 v0.0.0
+/favicon.ico
+/android-icon-192x192.png
+/static/css/main.d1f1dcb0.css
+/static/css/main.d1f1dcb0.css.map
+/static/js/main.d791d212.js
+/static/js/main.d791d212.js.map
+/static/media/BadaboomBB_Reg.79f12f40.ttf
+/static/media/BEBAS___.3ef73ff4.ttf
+/static/media/Iron-Fist-Comics.ec2ace38.jpg
+
+# network
+NETWORK:
+*
+https://www.google-analytics.com/analytics.js
