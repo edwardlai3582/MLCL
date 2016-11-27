@@ -13,6 +13,13 @@
                         "img": ""
                     },
                     {
+                        "id": "Series1CaptainAmericasmoothshirt",
+                        "name": "Captain America smooth shirt",
+                        "series": "Series 1",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
                         "id": "Series1Hulk",
                         "name": "Hulk",
                         "series": "Series 1",
@@ -84,6 +91,13 @@
                     {
                         "id": "Series2HumanTorchwith4onchest",
                         "name": "Human Torch with 4 on chest",
+                        "series": "Series 2",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series2Hulktornshirt",
+                        "name": "Hulk torn shirt",
                         "series": "Series 2",
                         "quantity": "0",
                         "img": ""
@@ -321,6 +335,13 @@
                         "series": "Series 6",
                         "quantity": "0",
                         "img": ""
+                    },
+                    {
+                        "id": "Series6WolverineUnmasked",
+                        "name": "Wolverine Unmasked",
+                        "series": "Series 6",
+                        "quantity": "0",
+                        "img": ""
                     }
                 ]
             },
@@ -407,6 +428,13 @@
                     {
                         "id": "Series8ClassicCaptainAmericaVariant",
                         "name": "Classic Captain America Variant",
+                        "series": "Series 8",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "Series8Doombot",
+                        "name": "Doombot",
                         "series": "Series 8",
                         "quantity": "0",
                         "img": ""
@@ -943,6 +971,13 @@
                         "series": "Series 14 - Mojo Series",
                         "quantity": "0",
                         "img": ""
+                    },
+                    {
+                        "id": "Series14-MojoSeriesPsylockeBlackVariant",
+                        "name": "Psylocke Black Variant",
+                        "series": "Series 14 - Mojo Series",
+                        "quantity": "0",
+                        "img": ""
                     }
                 ]
             },
@@ -1036,7 +1071,7 @@
                     },
                     {
                         "id": "Series15-M.O.D.O.K.SeriesWaspBlueCostumeVariant",
-                        "name": "WaspBlueCostumeVariant",
+                        "name": "Wasp Blue Costume Variant",
                         "series": "Series 15 - M.O.D.O.K. Series",
                         "quantity": "0",
                         "img": ""
@@ -1894,6 +1929,13 @@
                         "img": ""
                     },
                     {
+                        "id": "AnnihilusSeriesAnnihilusBAFpurplef",
+                        "name": "Annihilus BAF purple",
+                        "series": "Annihilus Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
                         "id": "AnnihilusSeriesBanshee",
                         "name": "Banshee",
                         "series": "Annihilus Series",
@@ -2530,8 +2572,8 @@
                         "img": ""
                     },
                     {
-                        "id": "EpicHeroesDeadpoolUKexclusive",
-                        "name": "Deadpool UK exclusive",
+                        "id": "EpicHeroesRedDeadpoolUKexclusive",
+                        "name": "Red Deadpool UK exclusive",
                         "series": "Epic Heroes",
                         "quantity": "0",
                         "img": ""
@@ -3803,6 +3845,62 @@
                         "quantity": "0",
                         "img": ""
                     }
+                ]
+            },
+            {
+                "seriesname": "Sandman Series",
+                "date": "201611",
+                "figures": [
+                    {
+                        "id": "SandmanSeriesAllNewSpider-Man2099",
+                        "name": "All New Spider-Man 2099",
+                        "series": "Sandman Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SandmanSeriesGreenGoblin",
+                        "name": "Green Goblin",
+                        "series": "Sandman Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SandmanSeriesJackal",
+                        "name": "Jackal",
+                        "series": "Sandman Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SandmanSeriesMs.Marvel",
+                        "name": "Ms. Marvel",
+                        "series": "Sandman Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SandmanSeriesShocker",
+                        "name": "Shocker",
+                        "series": "Sandman Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SandmanSeriesSpider UK",
+                        "name": "Spider UK",
+                        "series": "Sandman Series",
+                        "quantity": "0",
+                        "img": ""
+                    },
+                    {
+                        "id": "SandmanSeriesSymbioteSpider-Man",
+                        "name": "Symbiote Spider-Man",
+                        "series": "Sandman Series",
+                        "quantity": "0",
+                        "img": ""
+                    }
+                    
                 ]
             }
         ],
