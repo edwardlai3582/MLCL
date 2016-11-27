@@ -2146,69 +2146,69 @@
                 ]
             },
             {
-                "seriesname": "Sandman Series",
+                "seriesname": "Movie Sandman Series",
                 "date": "200710",
                 "figures": [
                     {
-                        "id": "SandmanSeriesMovieDocOck",
+                        "id": "MovieSandmanSeriesMovieDocOck",
                         "name": "Movie Doc Ock",
-                        "series": "Sandman Series",
+                        "series": "Movie Sandman Series",
                         "quantity": "0",
                         "img": ""
                     },
                     {
-                        "id": "SandmanSeriesMovieGreenGoblin",
+                        "id": "MovieSandmanSeriesMovieGreenGoblin",
                         "name": "Movie Green Goblin",
-                        "series": "Sandman Series",
+                        "series": "Movie Sandman Series",
                         "quantity": "0",
                         "img": ""
                     },
                     {
-                        "id": "SandmanSeriesMovieMaryJane",
+                        "id": "MovieSandmanSeriesMovieMaryJane",
                         "name": "Movie Mary Jane",
-                        "series": "Sandman Series",
+                        "series": "Movie Sandman Series",
                         "quantity": "0",
                         "img": ""
                     },
                     {
-                        "id": "SandmanSeriesMovieNewGoblin",
+                        "id": "MovieSandmanSeriesMovieNewGoblin",
                         "name": "Movie New Goblin",
-                        "series": "Sandman Series",
+                        "series": "Movie Sandman Series",
                         "quantity": "0",
                         "img": ""
                     },
                     {
-                        "id": "SandmanSeriesMovieSandman",
+                        "id": "MovieSandmanSeriesMovieSandman",
                         "name": "MovieSandman",
-                        "series": "Sandman Series",
+                        "series": "Movie andman Series",
                         "quantity": "0",
                         "img": ""
                     },
                     {
-                        "id": "SandmanSeriesMovieSandmanBAF",
+                        "id": "MovieSandmanSeriesMovieSandmanBAF",
                         "name": "Movie Sandman BAF",
-                        "series": "Sandman Series",
+                        "series": "Movie andman Series",
                         "quantity": "0",
                         "img": ""
                     },
                     {
-                        "id": "SandmanSeriesMovieSpider-Man",
+                        "id": "MovieSandmanSeriesMovieSpider-Man",
                         "name": "Movie Spider-Man",
-                        "series": "Sandman Series",
+                        "series": "Movie Sandman Series",
                         "quantity": "0",
                         "img": ""
                     },
                     {
-                        "id": "SandmanSeriesMovieBlack-SuitedSpider-Man",
+                        "id": "MovieSandmanSeriesMovieBlack-SuitedSpider-Man",
                         "name": "Movie Black-Suited Spider-Man",
-                        "series": "Sandman Series",
+                        "series": "Movie Sandman Series",
                         "quantity": "0",
                         "img": ""
                     },
                     {
-                        "id": "SandmanSeriesMovieMovie VenomVenom",
+                        "id": "MovieSandmanSeriesMovieMovie VenomVenom",
                         "name": "Movie Venom",
-                        "series": "Sandman Series",
+                        "series": "Movie Sandman Series",
                         "quantity": "0",
                         "img": ""
                     }
